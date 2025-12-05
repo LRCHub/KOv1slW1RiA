@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ホログラム",
+  "base_artist": "NICO Touches the Walls",
+  "createdAt": "2025-12-05T04:02:25.804981Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ホログラム",
+      "artist": "NICO Touches the Walls",
+      "has_synced": true,
+      "path": "select/01_ホログラム_NICO_Touches_the_Walls.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ホログラム (Acoustic)",
+      "artist": "NICO Touches the Walls",
+      "has_synced": false,
+      "path": "select/02_ホログラム_(Acoustic)_NICO_Touches_the_Walls.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ホログラム",
+      "artist": "NICO Touches the Walls",
+      "has_synced": true,
+      "path": "select/03_ホログラム_NICO_Touches_the_Walls.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ホログラム",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/04_ホログラム_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ホログラム",
+      "artist": "NICO Touches the Walls",
+      "has_synced": true,
+      "path": "select/05_ホログラム_NICO_Touches_the_Walls.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ホログラム - ANIME Ver. -",
+      "artist": "NICO Touches the Walls",
+      "has_synced": false,
+      "path": "select/06_ホログラム_-_ANIME_Ver._-_NICO_Touches_the_Walls.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ホログラム - Hologram",
+      "artist": "NICO Touches the Walls",
+      "has_synced": true,
+      "path": "select/07_ホログラム_-_Hologram_NICO_Touches_the_Walls.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hologram ホログラム",
+      "artist": "NICO Touches tha Walls",
+      "has_synced": true,
+      "path": "select/08_Hologram_ホログラム_NICO_Touches_tha_Walls.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "KIRA KIRA ホログラム",
+      "artist": "Wasuta",
+      "has_synced": false,
+      "path": "select/09_KIRA_KIRA_ホログラム_Wasuta.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ホログラム",
+      "artist": "倉木麻衣",
+      "has_synced": false,
+      "path": "select/10_ホログラム_倉木麻衣.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ホログラム",
+      "artist": "NICO Touches the Walls",
+      "has_synced": false,
+      "path": "select/pl_01_ホログラム_NICO_Touches_the_Walls.txt"
+    }
+  ]
+}
